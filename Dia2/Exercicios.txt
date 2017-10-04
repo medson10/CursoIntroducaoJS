@@ -1,0 +1,22 @@
+Exercicios
+
+1 - Crie um index html e um arquivo .js, no html
+coloque um texto paragraph qualquer, e no arquivo js
+crie uma função que altere este texto. Associe essa função
+ao evento click de um botão e crie uma logica para que
+se o botão for pressionado novamente, o texto volte ao
+original
+
+2 - Crie uma pagina com 3 imagens, e no arquivo js crie 
+3 listeners de eventos (scroll, keydown, click).
+Para cada listener crie uma função que altera o DOM
+uma que troca a primeira imagem pela segunda imagem,
+uma que deixa todas as imagens iguais e uma que 
+deixa o fundo da pagina vermelho
+
+3 - Crie uma pagina com um campo de texto, e que ao 
+digitar no campo de texto, o conteudo escrito apareça 
+em uma tag h1
+
+4 - Crie uma pagina com um campo de texto e um botão, e que ao clicar no botão 
+o elemento que tiver o id digitado no campo de texto será removido
