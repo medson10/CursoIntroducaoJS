@@ -1,0 +1,19 @@
+// 1 - Receber um array de 10 itens e retornar
+// esse array sem os numeros impares e com os 
+//numeros ordenados
+//FunÁ„o de OrdenaÁ„o
+// Nome_do_Array.sort(function(a, b) {
+//     return a - b;
+// })
+
+//2 - Fazer uma fun√ß√£o que recebe uma string e 
+// verifica se ela esta no formato do RG
+
+//3 - Fazer uma fun√ß√£o que recebe um vetor de 
+// objetos pessoa e retorna a pessoa mais velha
+
+//4 - Fazer uma fun√ß√£o que recebe um array de 
+// tamanho qualquer e retorna soma de seus elementos
+
+//5 - Resolver exercicio 4 usando metodo reduce
+//6 - Resolver exercicio 1 usando metodo filter
