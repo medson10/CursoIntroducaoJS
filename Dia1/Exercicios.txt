@@ -1,7 +1,7 @@
 // 1 - Receber um array de 10 itens e retornar
 // esse array sem os numeros impares e com os 
 //numeros ordenados
-//Função de Ordenação
+//FunÃ§Ã£o de OrdenaÃ§Ã£o
 // Nome_do_Array.sort(function(a, b) {
 //     return a - b;
 // })
