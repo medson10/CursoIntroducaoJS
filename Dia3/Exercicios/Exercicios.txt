@@ -1,0 +1,25 @@
+1 - Faça uma função que receba um array de raios 
+de circulos e calcule a area de um circulo, para cada um
+deles crie um objeto que vai ter as propriedades
+raio do circulo e area, adicione todos os objetos em um
+array e depois imprima os usando a função for of
+
+2 - Faça um função que receba uma string, divida ela
+em palavras e depois imprima elas por ordem de numeros 
+de ocorrencia
+OBS: Neste exericicio definam uma string de varias palavras com algum caracter
+de separação entre elas, por exemplo um espaço. Depois disso usem um metodo para 
+dividir essas palavras em varias strings, agrupem as palavras que forem iguais
+e mostre elas por ordem de maior numero de ocorrencias
+
+3 - Faça uma função que receba um array de objetos pessoa
+que devem conter as propriedades nome, idade e peso,
+retire as pessoas que tiverem idade menor do que 20 anos
+e mostre o resultado mapeando os objetos para mostrar 
+somente o nome e o peso.
+
+4 - Crie um modulo com funções para calcular a area
+de um triangulo e de um quadrado, e depois importe essas
+funções em um novo arquivo e chame elas
+OBS: Visto que esse codigo não pode ser testado, não precisa
+funcionar, só precisa ter a sintaxe correta.
